@@ -88,25 +88,24 @@ Microsoft Power BI was used to build an interactive dashboard that communicates 
 
 > **Workforce Hiring Trend**
 
-*(Insert Hiring Trend dashboard image here)*
+![Hiring Trend](HR_Workforce_Analytics/Hiring%20trend.png)
 
 ---
 
 > **Employee State Distribution**
 
-*(Insert State Distribution dashboard image here)*
+![State Distribution](HR_Workforce_Analytics/employee_state_distri.png)
 
 ---
 
 > **Employee Demographics**
 
-*(Insert Employee Distribution dashboard image here)*
-
+![Employee Demographics](HR_Workforce_Analytics/employee_demographics.png)
 ---
 
 > **Department & Age Group Turnover Analysis**
 
-*(Insert Turnover Analysis dashboard image here)*
+![Turnover Analysis](HR_Workforce_Analytics/turnover_dashboard.png)
 
 ---
 
